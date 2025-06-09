@@ -1,0 +1,23 @@
+/*Color Theme:
+Dark: #212121
+Complement: #85A5E4
+Off whtie: #F4F0DB
+White: #FFFAF1
+tan ish: #ECD9BA
+dark tan: #DEC19B*/
+
+.body {
+    background-color: #ECD9BA;
+}
+
+.title {
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 20px;
+    text-align: center;
+    align-self: center;
+}
+
+.btn {
+
+}
